@@ -48,4 +48,4 @@ Most of my repositories are private because I work at a state university. Some i
 
 [website]: https://uygaraydin.com
 [twitter]: https://twitter.com/uygaraydin_
-[linkedin]: https://linkedin.com/in/uygaraydin
+[linkedin]: https://linkedin.com/in/uygar-aydin
