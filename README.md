@@ -8,7 +8,7 @@ Most of my repositories are private because I work at a state university. Some i
   Frontend & Backend Developer; Python/Django · <em>A system where stakeholder feedback is collected and assigned to the relevant person through a hierarchical task assignment system</em>
 
 - **Academic Data System (1000+ Users)**
-  Frontend & Backend Developer; Python/Django, Vue.Js, Elasticsearch · <em>A system where academics can enter their publication information and create their academic profile. And so general statistics are published for the university on this system by using all this information. </em>
+  Frontend & Backend Developer; Python/Django, Vue.Js, Elasticsearch, Highcharts Js · <em>A system where academics can enter their publication information and create their academic profile. And so general statistics are published for the university on this system by using all this information. </em>
 
 - **Alumni Information System**
   Frontend & Backend Developer; Node.js, Angular 2, Google Maps API, MongoDB · <em> A platform where graduate students can pin their work or home information on google maps and find each other</em>
