@@ -4,24 +4,24 @@
 
 Most of my repositories are private because I work at a state university. Some information of private projects that:
 
-- **Support and Feedback System (1000+ Users)**
-  Frontend & Backend Developer; Python/Django · <em>A system where stakeholder feedback is collected and assigned to the relevant person through a hierarchical task assignment system</em>
+- **Support and Feedback System (1000+ Users)** Frontend & Backend Developer; Python/Django
+  <em>A system where stakeholder feedback is collected and assigned to the relevant person through a hierarchical task assignment system</em>
 
-- **Academic Data System (1000+ Users)**
-  Frontend & Backend Developer; Python/Django, Vue.Js, Elasticsearch, Highcharts Js · <em>A system where academics can enter their publication information and create their academic profile. And so general statistics are published for the university on this system by using all this information. </em>
+- **Academic Data System (1000+ Users)** Frontend & Backend Developer; Python/Django, Vue.Js, Elasticsearch, Highcharts Js
+  <em>A system where academics can enter their publication information and create their academic profile. And so general statistics are published for the university on this system by using all this information. </em>
 
-- **Alumni Information System**
-  Frontend & Backend Developer; Node.js, Angular 2, Google Maps API, MongoDB · <em> A platform where graduate students can pin their work or home information on google maps and find each other</em>
+- **Alumni Information System** Frontend & Backend Developer; Node.js, Angular 2, Google Maps API, MongoDB
+  <em>A platform where graduate students can pin their work or home information on google maps and find each other</em>
 
-- **Student Information System (20000+ Users)**
-  Frontend & Backend Developer in the project team, Asp.net MVC, AngularJS · <em> The system where students' and academicians' needs in the education process are met digitally. (grading, course selection, online registration, diploma procedures, etc.)</em>
+- **Student Information System (20000+ Users)** Frontend & Backend Developer in the project team, Asp.net MVC, AngularJS
+  <em>The system where students' and academicians' needs in the education process are met digitally. (grading, course selection, online registration, diploma procedures, etc.)</em>
 
 ### Connect with me:
 
-[<img align="left" alt="uygaraydin.com" width="25px" src="https://user-images.githubusercontent.com/7466686/146689561-76db0d1e-4f36-43b3-aa0b-6e56e4628d9d.png" />][website]
-[<img align="left" alt="uygaraydin_ | Twitter" width="25px" src="https://user-images.githubusercontent.com/7466686/146689500-bf219e5f-a4cb-4759-9e70-5799ec890985.png" />][twitter]
-[<img align="left" alt="uygaraydin | LinkedIn" width="25px" src="https://user-images.githubusercontent.com/7466686/146689572-43af781c-3380-448c-9fc0-7111827bd0ad.png" />][linkedin]
-[<img align="left" alt="uygaraydin | Dribbble" width="25px" src="https://user-images.githubusercontent.com/7466686/146689526-120a440e-60d1-428a-bf2d-c69998259d7f.png" />][dribbble]
+[<img align="left" alt="uygaraydin.com" width="25px" src="https://user-images.githubusercontent.com/7466686/146691665-60fb62fb-efad-479f-b844-1e41912f5b3d.png" />][website]
+[<img align="left" alt="uygaraydin_ | Twitter" width="25px" src="https://user-images.githubusercontent.com/7466686/146691661-3fa9c0bf-d47b-4cd5-b3f0-67a082544b6d.png" />][twitter]
+[<img align="left" alt="uygaraydin | LinkedIn" width="25px" src="https://user-images.githubusercontent.com/7466686/146691656-b2fe18c4-6fa2-43eb-aa32-0be8847ab624.png" />][linkedin]
+[<img align="left" alt="uygaraydin | Dribbble" width="25px" src="https://user-images.githubusercontent.com/7466686/146691662-b448e2d2-336f-4d44-9104-1c6fc58c595e.png" />][dribbble]
 
 <br />
 
