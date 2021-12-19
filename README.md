@@ -18,9 +18,10 @@ Most of my repositories are private because I work at a state university. Some i
 
 ### Connect with me:
 
-[<img align="left" alt="uygaraydin.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="uygaraydin_ | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="uygaraydin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="uygaraydin.com" width="25px" src="https://user-images.githubusercontent.com/7466686/146689561-76db0d1e-4f36-43b3-aa0b-6e56e4628d9d.png" />][website]
+[<img align="left" alt="uygaraydin_ | Twitter" width="25px" src="https://user-images.githubusercontent.com/7466686/146689500-bf219e5f-a4cb-4759-9e70-5799ec890985.png" />][twitter]
+[<img align="left" alt="uygaraydin | LinkedIn" width="25px" src="https://user-images.githubusercontent.com/7466686/146689572-43af781c-3380-448c-9fc0-7111827bd0ad.png" />][linkedin]
+[<img align="left" alt="uygaraydin | Dribbble" width="25px" src="https://user-images.githubusercontent.com/7466686/146689526-120a440e-60d1-428a-bf2d-c69998259d7f.png" />][dribbble]
 
 <br />
 
@@ -49,3 +50,4 @@ Most of my repositories are private because I work at a state university. Some i
 [website]: https://uygaraydin.com
 [twitter]: https://twitter.com/uygaraydin_
 [linkedin]: https://linkedin.com/in/uygar-aydin
+[dribbble]: https://dribbble.com/uygaraydin
