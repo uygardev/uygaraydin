@@ -38,7 +38,6 @@ Most of my repositories are private because I work at a state university. Some i
 <img align="left" alt="Python" width="26px" src="https://user-images.githubusercontent.com/7466686/146679367-71ba662c-f3a5-47ef-9850-e3a9e5e83385.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Figma" width="26px" src="https://user-images.githubusercontent.com/7466686/146679500-0dd8bfd0-a09e-4a90-b7f9-accf36a85d27.png" />
 <img align="left" alt="Figma" width="26px" src="https://user-images.githubusercontent.com/7466686/146679506-c8fa36d4-690c-496c-9358-be8d7bdcea97.png" />
 
