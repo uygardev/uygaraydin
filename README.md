@@ -27,6 +27,7 @@ Most of my repositories are private because I work at a state university. Some i
 
 * 🌍 I'm based in Turkey
 * ✉️ You can contact me at [hi@uygaraydin.com](mailto:hi@uygaraydin.com)
+* 🚀 I'm currently working on a web API project that will be bridge existing systems in my institution.
 * 🧠 I'm learning deeper JS, Node.js, Typescript with Hexagonal Architecture
 
 <a href="https://www.twitter.com/uygaraydin_" target="_blank" rel="noreferrer"><img
