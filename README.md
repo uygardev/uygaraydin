@@ -12,23 +12,10 @@ Apart from the software development side of the job, I developed my design and u
 
 My purpose in my job is to develop user-friendly products with the help of new technologies without ignoring aesthetic concerns. I am motivated to create solutions or products that deal with people's pain points. For this reason, I'm still improving myself in the design and user experience field.
 
-Most of my repositories are private because I work at a state university. Some information on private projects:
-
-- **Support and Feedback System (1000+ Users)** Frontend & Backend Developer; Python/Django<br />
-  <em>A system where stakeholder feedback is collected and assigned to the relevant person through a hierarchical task assignment system</em><br /><br />
-- **Academic Data System (1000+ Users)** Frontend & Backend Developer; Python/Django, Vue.js, Elasticsearch, Highcharts Js<br />
-  <em>A system where academics can enter their publication information and create their academic profile. And so general statistics are published for the university on this system by using all this information. </em><br /><br />
-
-- **Alumni Information System** Frontend & Backend Developer; Node.js, Angular 2, Google Maps API, MongoDB<br />
-  <em>A platform where graduate students can pin their work or home information on google maps and find each other</em><br /><br />
-
-- **Student Information System (20000+ Users)** Frontend & Backend Developer in the project team, Asp.net MVC, AngularJS<br />
-  <em>The system where students' and academicians' needs in the education process are met digitally. (grading, course selection, online registration, diploma procedures, etc.)</em><br /><br />
-
-* 🌍 I'm based in Turkey
-* ✉️ You can contact me at [hi@uygaraydin.com](mailto:hi@uygaraydin.com)
-* 🚀 I'm currently working on a web API project that will be bridge existing systems in my institution.
-* 🧠 I'm learning deeper JS, Node.js, Typescript with Hexagonal Architecture
+- 🌍 I'm based in Turkey
+- ✉️ You can contact me at [hi@uygaraydin.com](mailto:hi@uygaraydin.com)
+- 🚀 I'm currently working on a web API project that will be bridge existing systems in my institution.
+- 🧠 I'm learning deeper JS, Node.js, Typescript with Hexagonal Architecture
 
 <a href="https://www.twitter.com/uygaraydin_" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/uygaraydin_?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
