@@ -14,15 +14,15 @@ My purpose in my job is to develop user-friendly products with the help of new t
 
 Most of my repositories are private because I work at a state university. Some information on private projects:
 
-- **Support and Feedback System (1000+ Users)** Frontend & Backend Developer; Python/Django
+- **Support and Feedback System (1000+ Users)** Frontend & Backend Developer; Python/Django<br />
   <em>A system where stakeholder feedback is collected and assigned to the relevant person through a hierarchical task assignment system</em><br /><br />
-- **Academic Data System (1000+ Users)** Frontend & Backend Developer; Python/Django, Vue.js, Elasticsearch, Highcharts Js
+- **Academic Data System (1000+ Users)** Frontend & Backend Developer; Python/Django, Vue.js, Elasticsearch, Highcharts Js<br />
   <em>A system where academics can enter their publication information and create their academic profile. And so general statistics are published for the university on this system by using all this information. </em><br /><br />
 
-- **Alumni Information System** Frontend & Backend Developer; Node.js, Angular 2, Google Maps API, MongoDB
+- **Alumni Information System** Frontend & Backend Developer; Node.js, Angular 2, Google Maps API, MongoDB<br />
   <em>A platform where graduate students can pin their work or home information on google maps and find each other</em><br /><br />
 
-- **Student Information System (20000+ Users)** Frontend & Backend Developer in the project team, Asp.net MVC, AngularJS
+- **Student Information System (20000+ Users)** Frontend & Backend Developer in the project team, Asp.net MVC, AngularJS<br />
   <em>The system where students' and academicians' needs in the education process are met digitally. (grading, course selection, online registration, diploma procedures, etc.)</em><br /><br />
 
 * 🌍 I'm based in Turkey
