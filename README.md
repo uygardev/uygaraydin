@@ -1,4 +1,4 @@
-# Hi 👋 My name is Uygar Aydin
+# Hi 👋 I'm Uygar
 
 ## I'm a developer, academist and designer by hobby!!
 
