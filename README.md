@@ -13,7 +13,7 @@ Apart from the software development side of the job, I developed my design and u
 My purpose in my job is to develop user-friendly products with the help of new technologies without ignoring aesthetic concerns. I am motivated to create solutions or products that deal with people's pain points. For this reason, I'm still improving myself in the design and user experience field.
 
 - 🌍 I'm based in Turkey
-- ✉️ You can contact me at [hi@uygaraydin.com](mailto:hi@uygaraydin.com)
+- ✉️ You can contact me at [me@uygar.dev](mailto:me@uygar.dev)
 - 🚀 I'm currently working on a web API project that will be bridge existing systems in my institution.
 - 🧠 I'm learning deeper JS, Node.js, Typescript with Hexagonal Architecture
 
@@ -43,7 +43,7 @@ src="https://img.shields.io/twitter/follow/uygaraydin_?logo=twitter&style=for-th
 
 ### Socials
 
-<p align="left"> <a href="https://www.dribbble.com/uygardev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/dribbble.svg" width="32" height="32" /></a> <a href="https://www.github.com/uygardev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/uygardev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@uygardev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/uygaraydin_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.dribbble.com/uygardev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/dribbble.svg" width="32" height="32" /></a> <a href="https://www.github.com/uygardev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/uygardev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@uygardev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/uygar_dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 <br /><br />
 <b>My GitHub Stats</b>
