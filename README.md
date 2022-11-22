@@ -18,7 +18,7 @@ My purpose in my job is to develop user-friendly products with the help of new t
 - 🧠 I'm learning deeper JS, Node.js, Typescript with Hexagonal Architecture
 
 <a href="https://www.twitter.com/uygardev" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/uygaraydin_?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+src="https://img.shields.io/twitter/follow/uygardev?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
 
 ### Skills
